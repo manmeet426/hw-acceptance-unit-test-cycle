@@ -1,20 +1,139 @@
 {
   "Cucumber Features": {
     "coverage": {
-      "/home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/movies_helper.rb": [
+      "/home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/app/models/movie.rb": [
+        1,
+        1,
+        4,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/movies_controller.rb": [
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        4,
+        4,
+        null,
+        null,
+        null,
+        1,
+        4,
+        4,
+        null,
         0,
         null,
         0,
+        null,
+        4,
+        4,
+        null,
+        4,
+        24,
+        null,
+        null,
+        4,
         0,
         0,
-        0
+        0,
+        null,
+        4,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        2,
+        2,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
       ],
       "/home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/movies_helper.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1539112798
+  },
+  "RSpec": {
+    "coverage": {
+      "/home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/movies_helper.rb": [
+        1,
+        null,
+        1,
         0,
-        0
+        null,
+        null
       ],
       "/home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/app/models/movie.rb": [
         0,
+        0,
+        0,
+        0,
+        null,
         0,
         0,
         0,
@@ -84,6 +203,15 @@
         0,
         0,
         null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0
       ],
       "/home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/application_controller.rb": [
@@ -92,6 +220,6 @@
         0
       ]
     },
-    "timestamp": 1538778474
+    "timestamp": 1538932764
   }
 }
