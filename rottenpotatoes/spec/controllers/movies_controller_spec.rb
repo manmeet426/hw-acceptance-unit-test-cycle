@@ -80,7 +80,7 @@ describe MoviesController do
     #         @movie = Movie.create(id: 1, title: "TestTitle", rating: "TestRating", description: "TestDesc", release_date: "1900")
     #         id_params = {id: 1}
     #         get :search_directors, id_params
-    #         expect(response).to redirect_to "/movies"
+    #         expect(response).to redirect_to movies_path
     #     end
 
     #     it "should render movies with same director if movie has director" do

@@ -4,7 +4,7 @@
       "/home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/app/models/movie.rb": [
         1,
         1,
-        4,
+        10,
         null,
         null,
         1,
@@ -33,26 +33,26 @@
         null,
         null,
         1,
-        4,
-        4,
+        10,
+        10,
         null,
-        0,
+        2,
         null,
-        0,
+        2,
         null,
-        4,
-        4,
+        10,
+        10,
         null,
-        4,
-        24,
+        10,
+        36,
         null,
         null,
-        4,
-        0,
-        0,
-        0,
+        10,
+        2,
+        2,
+        2,
         null,
-        4,
+        8,
         null,
         null,
         1,
@@ -112,7 +112,7 @@
         null
       ]
     },
-    "timestamp": 1539287669
+    "timestamp": 1539386131
   },
   "RSpec": {
     "coverage": {
@@ -227,6 +227,6 @@
         null
       ]
     },
-    "timestamp": 1539287676
+    "timestamp": 1539386122
   }
 }
